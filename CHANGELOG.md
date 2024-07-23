@@ -6,6 +6,8 @@
 
 - Allow `I18n.available_locales` to contain Strings
   ([#612](https://github.com/shioyama/mobility/pull/612))
+- Add support for `to_json`
+  ([#643](https://github.com/shioyama/mobility/pull/643))
 
 ### 1.3.0.rc3
 
